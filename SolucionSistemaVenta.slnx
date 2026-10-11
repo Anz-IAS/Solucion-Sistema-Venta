@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SistemaVenta.AplicacionWeb/SistemaVenta.AplicacionWeb.csproj" Id="c7d08c65-f27a-4ecc-84eb-b8b6b593ad04" />
+  <Project Path="SistemaVenta.BLL/SistemaVenta.BLL.csproj" Id="9660945b-2917-48b2-9eb1-0ac396d4d9e8" />
+  <Project Path="SistemaVenta.DAL/SistemaVenta.DAL.csproj" Id="ea9b6045-6649-4de3-b064-8481d17a48d0" />
+  <Project Path="SistemaVenta.Entity/SistemaVenta.Entity.csproj" Id="236c8e2a-d53d-458e-91f0-f625dc339287" />
+  <Project Path="SistemaVenta.IOC/SistemaVenta.IOC.csproj" Id="f4fb0100-c56c-49fc-80c6-2f9c4e291089" />
+</Solution>
